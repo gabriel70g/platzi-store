@@ -12,7 +12,7 @@ script:
 notifications:
   email:
     recipients:
-      - jose.luis.higuera@hotmail.com
+      - gabriel70@gmail.com
     on_success: always
     on_failure: always
 deploy:
